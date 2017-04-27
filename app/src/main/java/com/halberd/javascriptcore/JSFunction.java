@@ -32,6 +32,8 @@
 */
 package com.halberd.javascriptcore;
 
+import com.example.cw.halberd.BuildConfig;
+
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

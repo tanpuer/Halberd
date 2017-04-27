@@ -32,6 +32,8 @@
 */
 package com.halberd.javascriptcore;
 
+import com.example.cw.halberd.BuildConfig;
+
 /**
  * A convenience class for managing JavaScript error objects
  * @since 1.0
