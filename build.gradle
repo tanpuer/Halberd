@@ -21,3 +21,8 @@ allprojects {
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
+
+ext {
+    okhttp3Version = '3.4.1'
+    frescoVersion = '1.0.0'
+}
